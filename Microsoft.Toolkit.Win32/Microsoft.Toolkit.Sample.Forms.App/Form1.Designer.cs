@@ -186,13 +186,14 @@ namespace Microsoft.Toolkit.Win32.Samples.WinForms.App
             //
             // HandwritingViewTab
             //
-            this.testTab.Location = new System.Drawing.Point(4, 22);
-            this.testTab.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.testTab.Name = "textBoxHandwritingView";
-            this.testTab.Size = new System.Drawing.Size(1051, 681);
-            this.testTab.TabIndex = 4;
-            this.testTab.Text = "TextBox.HandwritingView";
-            this.testTab.UseVisualStyleBackColor = true;
+            this.handWritingViewTab.Location = new System.Drawing.Point(4, 22);
+            this.handWritingViewTab.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.handWritingViewTab.Name = "textBoxHandwritingView";
+            this.handWritingViewTab.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.handWritingViewTab.Size = new System.Drawing.Size(1051, 681);
+            this.handWritingViewTab.TabIndex = 4;
+            this.handWritingViewTab.Text = "TextBox.HandwritingView";
+            this.handWritingViewTab.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
