@@ -229,6 +229,7 @@ namespace Microsoft.Toolkit.Win32.Samples.WinForms.App
             this.handWritingTabTextBox.Name = "handWritingTabTextBox";
             this.handWritingTabTextBox.Size = new System.Drawing.Size(400, 50);
             this.handWritingTabTextBox.TabIndex = 2;
+            this.handWritingTabTextBox.PlaceholderText = "This is an UWP TextBox Control";
             // 
             // handWritingTabRichEditBoxLabel
             // 
@@ -245,6 +246,7 @@ namespace Microsoft.Toolkit.Win32.Samples.WinForms.App
             this.handWritingTabRichEditBox.Name = "handWritingTabRichEditBox";
             this.handWritingTabRichEditBox.Size = new System.Drawing.Size(400, 50);
             this.handWritingTabRichEditBox.TabIndex = 4;
+            this.handWritingTabRichEditBox.PlaceholderText = "This is an UWP RichEditBox Control";
             // 
             // Form1
             // 

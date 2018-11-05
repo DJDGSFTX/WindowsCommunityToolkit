@@ -20,5 +20,14 @@ namespace Microsoft.Toolkit.Forms.UI.Controls
             : base(name)
         {
         }
+
+        /// <summary>
+        /// Gets or sets <see cref="Windows.UI.Xaml.Controls.RichEditBox.PlaceholderText"/>
+        /// </summary>
+        public string PlaceholderText
+        {
+            get => UwpControl.PlaceholderText;
+            set => UwpControl.PlaceholderText = value;
+        }
     }
 }
