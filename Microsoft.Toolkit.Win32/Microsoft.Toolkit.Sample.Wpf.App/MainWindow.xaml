@@ -12,13 +12,124 @@
         <TabControl>
             <TabItem>
                 <TabItem.Header>TextBox.HandwritingView</TabItem.Header>
+                <ScrollViewer HorizontalAlignment="Stretch" VerticalAlignment="Top">
                 <StackPanel>
                     <Label>Tap in the below TextBox or RichEditBox with the pen to use the HandWritingView</Label>
-                    <Label>TextBox:</Label>
-                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--0-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 1" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 2" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 3" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 4" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 5" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 6" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 7" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 8" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 9" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--1-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 10" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 11" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 12" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 13" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 14" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 15" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 16" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 17" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 18" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 19" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--2-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 20" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 21" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 22" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 23" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 24" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 25" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 26" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 27" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 28" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 29" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--3-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 30" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 31" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 32" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 33" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 34" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 35" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 36" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 37" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 38" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 39" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--4-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 40" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 41" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 42" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 43" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 44" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 45" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 46" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 47" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 48" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 49" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--5-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 50" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 51" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 52" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 53" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 54" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 55" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 56" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 57" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 58" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 59" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--6-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 60" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 61" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 62" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 63" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 64" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 65" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 66" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 67" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 68" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 69" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--7-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 70" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 71" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 72" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 73" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 74" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 75" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 76" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 77" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 78" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 79" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--8-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 80" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 81" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 82" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 83" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 84" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 85" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 86" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 87" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 88" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 89" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--9-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 90" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 91" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 92" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 93" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 94" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 95" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 96" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 97" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 98" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 99" Width="400" Height="50" HorizontalAlignment="Left"/>
+                    <!--10-->
+                    <controls:TextBox PlaceholderText="This is an UWP TextBox Control 100" Width="400" Height="50" HorizontalAlignment="Left"/>
                     <Label>RichEditBox:</Label>
                     <controls:RichEditBox PlaceholderText="This is an UWP RichEditBox Control" Width="400" Height="50" HorizontalAlignment="Left"/>
                 </StackPanel>
+                </ScrollViewer>
             </TabItem>
             <TabItem>
                 <TabItem.Header>Ink Controls (Canvas / Toolbar)</TabItem.Header>
